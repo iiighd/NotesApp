@@ -5,11 +5,14 @@
       <map>
         <entry key="..\:/Users/Win10/AndroidStudioProjects/MyNotesAPP/app/src/main/res/drawable/background.xml" value="0.225" />
         <entry key="..\:/Users/Win10/AndroidStudioProjects/MyNotesAPP/app/src/main/res/drawable/ic_add.xml" value="0.225" />
+        <entry key="..\:/Users/Win10/AndroidStudioProjects/MyNotesAPP/app/src/main/res/drawable/ic_edit.xml" value="0.20277777777777778" />
         <entry key="..\:/Users/Win10/AndroidStudioProjects/MyNotesAPP/app/src/main/res/drawable/ic_image.xml" value="0.22037037037037038" />
         <entry key="..\:/Users/Win10/AndroidStudioProjects/MyNotesAPP/app/src/main/res/drawable/ic_link.xml" value="0.22037037037037038" />
+        <entry key="..\:/Users/Win10/AndroidStudioProjects/MyNotesAPP/app/src/main/res/drawable/ic_remove.xml" value="0.20277777777777778" />
         <entry key="..\:/Users/Win10/AndroidStudioProjects/MyNotesAPP/app/src/main/res/drawable/ic_search.xml" value="0.225" />
         <entry key="..\:/Users/Win10/AndroidStudioProjects/MyNotesAPP/app/src/main/res/drawable/ic_tick.xml" value="0.225" />
         <entry key="..\:/Users/Win10/AndroidStudioProjects/MyNotesAPP/app/src/main/res/layout/activity_main.xml" value="0.24444444444444444" />
+        <entry key="..\:/Users/Win10/AndroidStudioProjects/MyNotesAPP/app/src/main/res/layout/item_row.xml" value="0.346" />
       </map>
     </option>
   </component>
